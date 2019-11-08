@@ -7,7 +7,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Text.RegularExpressions;
 
 namespace notepad
 {
@@ -16,16 +15,6 @@ namespace notepad
         public Form1()
         {
             InitializeComponent();
-        }
-
-        private void Form1_TextChanged(object sender, EventArgs e)
-        {
-            RegularExpressions(textBox1.Text);
-        }
-
-        private void RegularExpressions(string str)
-        {
-
         }
     }
 }

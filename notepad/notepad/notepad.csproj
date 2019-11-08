@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{057EA8E5-2C91-4484-8E6F-41894B2AD325}</ProjectGuid>
+    <ProjectGuid>{CADB6CDF-86FC-4064-93D3-1FFCE71BC8DD}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>notepad</RootNamespace>
     <AssemblyName>notepad</AssemblyName>
