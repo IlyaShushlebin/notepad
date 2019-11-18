@@ -1,0 +1,10 @@
+D:\учеба\МАГИСТРАТУРА\1КУРС\СТРПО\Lab5\notepad\notepad\notepad\obj\Debug\notepad.csprojAssemblyReference.cache
+D:\учеба\МАГИСТРАТУРА\1КУРС\СТРПО\Lab5\notepad\notepad\notepad\obj\Debug\notepad.Form1.resources
+D:\учеба\МАГИСТРАТУРА\1КУРС\СТРПО\Lab5\notepad\notepad\notepad\obj\Debug\notepad.Properties.Resources.resources
+D:\учеба\МАГИСТРАТУРА\1КУРС\СТРПО\Lab5\notepad\notepad\notepad\obj\Debug\notepad.csproj.GenerateResource.cache
+D:\учеба\МАГИСТРАТУРА\1КУРС\СТРПО\Lab5\notepad\notepad\notepad\obj\Debug\notepad.csproj.CoreCompileInputs.cache
+D:\учеба\МАГИСТРАТУРА\1КУРС\СТРПО\Lab5\notepad\notepad\notepad\bin\Debug\notepad.exe.config
+D:\учеба\МАГИСТРАТУРА\1КУРС\СТРПО\Lab5\notepad\notepad\notepad\bin\Debug\notepad.exe
+D:\учеба\МАГИСТРАТУРА\1КУРС\СТРПО\Lab5\notepad\notepad\notepad\bin\Debug\notepad.pdb
+D:\учеба\МАГИСТРАТУРА\1КУРС\СТРПО\Lab5\notepad\notepad\notepad\obj\Debug\notepad.exe
+D:\учеба\МАГИСТРАТУРА\1КУРС\СТРПО\Lab5\notepad\notepad\notepad\obj\Debug\notepad.pdb
